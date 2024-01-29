@@ -1,7 +1,6 @@
 # Simple calculator (small project)
 
-
-![image](https://github.com/4balage4/react-calculator/assets/115076678/e917e9ea-d3d1-4bf6-b52d-5dc839eb8e15)
+![image](https://github.com/4balage4/react-calculator/assets/115076678/777d87dc-6d75-49a5-9c7b-a964da9c5c1b)
 
 
 
