@@ -1,6 +1,7 @@
 # Simple calculator (small project)
 
-It is capable to for the basic 4 operation and modulus.
+
+![image](https://github.com/4balage4/react-calculator/assets/115076678/e917e9ea-d3d1-4bf6-b52d-5dc839eb8e15)
 
 
 
